@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "kaggle_backpack_sales"
+  site-url: "https://ozpau.github.io/kaggle_backpack_sales"
+  description: "Code for [Backpack Prediction Challenge](https://www.kaggle.com/competitions/playground-series-s5e2) Kaggle competition"
+  repo-branch: main
+  repo-url: "https://github.com/ozpau/kaggle_backpack_sales"
